@@ -1,0 +1,24 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Basics",
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "튜토리얼",
+    "section": "",
+    "text": "중등 수학부터 파이썬으로 차근히 나가기 위해서 만들어보고 있습니다.",
+    "crumbs": [
+      "Basics",
+      "튜토리얼"
+    ]
+  }
+]
