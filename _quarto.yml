@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  # title: "Voidmain443_economist"
+  reader-mode: true
+  sidebar:
+    style: "docked"
+    left: true
+    search: true
+    background: "primary"
+    border: true
+    aligment: "left"
+    collapse-level: 3
+    pinned: false
+    contents:
+      - section: "Basics"
+        contents: 
+          - index.qmd
+          - about.qmd
+      - section: "Intermidiate"
+        contents:
+
+format:
+  html:
+    theme: 
+      light: litera
+      dark: [litera, litera.scss]
+    html-math-method: katex
+    # css: styles.css
+    toc: true
+
+
+
