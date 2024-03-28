@@ -19,6 +19,7 @@ website:
         contents: 
           - index.qmd
           - about.qmd
+          - basic.ipynb
       - section: "Intermidiate"
         contents:
 
